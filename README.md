@@ -50,7 +50,7 @@ Give me 5 one-line pitches scored for 48h build risk, then fill in JAM.md for th
 ```
 
 ## Want the whole jam team?
-**[ShipTheJam — Game Jam Agent Kit](https://shipthejam.com/#buy)** ($24 launch price, regular $29) adds Phaser 3 + TypeScript and Roblox/Luau (Rojo)
+**[ShipTheJam — Game Jam Agent Kit](https://shipthejam.com/#buy)** (€24 launch price, regular €29) adds Phaser 3 + TypeScript and Roblox/Luau (Rojo)
 packs, 6 agent roles (designer, gameplay coder, debugger, juice/polish, build & deploy with
 butler, itch.io page writer), an hour-by-hour 48h playbook, a launch checklist, MCP configs and
 a Phaser starter. This repo stays free and maintained either way.
